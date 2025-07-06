@@ -1,0 +1,35 @@
+body, .stApp {
+ 
+ background: #7E8C89; /* tono gris verdoso */
+ 
+ font-family: 'Helvetica Neue', sans-serif;
+ 
+ }
+ 
+ .card {
+ 
+ background: #9EABA8;
+ 
+ padding: 2rem;
+ 
+ border-radius: 24px;
+ 
+ box-shadow: 4px 4px 24px rgba(0,0,0,0.1);
+ 
+ color: white;
+ 
+ max-width: 300px;
+ 
+ margin: 1rem;
+ 
+ text-align: center;
+ 
+ }
+ 
+ .big {
+ 
+ font-size: 4rem;
+ 
+ font-weight: 700;
+ 
+ }
